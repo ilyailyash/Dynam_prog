@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1488980684 source:c:\users\Илья\desktop\c++\lcs\lcs.cpp
+	<iostream>
+	<vector>
+	"LCS.h"
+
+1489416446 
+
+1488980637 c:\users\Илья\desktop\c++\lcs\lcs.h
+
+1489416446 source:c:\users\Илья\desktop\c++\lcs\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+	"LCS.h"
+
+1491841355 source:/home/ilya/Downloads/LCS/LCS.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	"LCS.h"
+
+1488980637 /home/ilya/Downloads/LCS/LCS.h
+
+1491841260 source:/home/ilya/Downloads/LCS/main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<iterator>
+	<fstream>
+	"LCS.h"
+
